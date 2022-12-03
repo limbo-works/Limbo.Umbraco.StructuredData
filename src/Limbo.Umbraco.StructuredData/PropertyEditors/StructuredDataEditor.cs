@@ -12,13 +12,13 @@ namespace Limbo.Umbraco.StructuredData.PropertyEditors {
 
         #region Constants
 
-        internal const string EditorAlias = "Limbo.Umbraco.StructuredData";
+        public const string EditorAlias = "Limbo.Umbraco.StructuredData";
 
-        internal const string EditorName = "Limbo Structured Data";
+        public const string EditorName = "Limbo Structured Data";
 
-        internal const string EditorView = "/App_Plugins/Limbo.Umbraco.StructuredData/Views/StructuredDataEditor.html";
+        public const string EditorView = "/App_Plugins/Limbo.Umbraco.StructuredData/Views/StructuredDataEditor.html";
 
-        internal const string EditorIcon = "icon-grid color-limbo";
+        public const string EditorIcon = "icon-grid color-limbo";
 
         #endregion
 

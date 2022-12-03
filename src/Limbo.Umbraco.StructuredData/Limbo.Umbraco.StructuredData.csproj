@@ -12,7 +12,7 @@
     <Company>Limbo</Company>
     <Authors>Anders Bjerner</Authors>
     <Copyright>Copyright © 2022</Copyright>
-    <Title>Limbo StructuredData</Title>
+    <Title>Limbo Structured Data</Title>
     <Description>Structured data table editor for Umbraco 9.</Description>
   </PropertyGroup>
 
@@ -21,7 +21,7 @@
     <PackageId>Limbo.Umbraco.StructuredData</PackageId>
     <PackageTags>Skybrud, Limbo, Umbraco, StructuredData, Table, Umbraco-Marketplace</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/limbo-works/Limbo.Umbraco.StructuredData</PackageProjectUrl>
+    <PackageProjectUrl>https://packages.limbo.works/limbo.umbraco.structureddata/v1/</PackageProjectUrl>
     <PackageIcon>Limbo.png</PackageIcon>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/limbo-works/Limbo.Umbraco.StructuredData</RepositoryUrl>
