@@ -19,7 +19,7 @@
   <!-- Information for the NuGet package -->
   <PropertyGroup>
     <PackageId>Limbo.Umbraco.StructuredData</PackageId>
-    <PackageTags>Skybrud, Limbo, Umbraco, StructuredData, Table</PackageTags>
+    <PackageTags>Skybrud, Limbo, Umbraco, StructuredData, Table, Umbraco-Marketplace</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/limbo-works/Limbo.Umbraco.StructuredData</PackageProjectUrl>
     <PackageIcon>Limbo.png</PackageIcon>
